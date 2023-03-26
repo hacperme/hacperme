@@ -1,6 +1,6 @@
 # Welcome !
 
-I'm Hacper, an embedded software developer from Shenzhen, China.
+I'm Hacper, an embedded software developer from ShenZhen, China.
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=hacperme&locale=zh_Hans)](https://git.io/streak-stats)
